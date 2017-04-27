@@ -124,7 +124,8 @@ body a{
 } 
 .head-nav ul{
 	padding: 0;
-	width: 85%;
+	/*update width from 85 to 90 by bagus_css*/
+	width: 85%; 
 	margin: 0 auto;
 	position:relative;
 }
